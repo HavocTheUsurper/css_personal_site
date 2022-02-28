@@ -1,0 +1,75 @@
+
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+h1 {
+	color: #66BFBF;
+	margin: 50px auto 0 auto;
+	font-size: 300%;
+	line-height: 2;
+}
+
+h2 {
+	color: #66BFBF;
+	font-size: 2em;
+	font-weight: normal;
+}
+
+h3 {
+	color: #11999E;
+}
+
+
+.top-container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+	
+}
+
+.skill-row {
+    width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.me {
+	width: 15%;
+}
+
+
+.skills-img {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+
+.cooking-img {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
